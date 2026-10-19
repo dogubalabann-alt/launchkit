@@ -1,0 +1,13 @@
+{
+  "tagline": "Deploy generative media apps to fal GPUs",
+  "x_thread": [
+    "Write a Python app. Run it on a GPU. Ship it with a persistent URL. All from your terminal. Meet the fal CLI.",
+    "pip install fal\nfal auth login\nfal run app.py   # test it\nfal deploy       # ship it\n\nThat's the loop.",
+    "Deployed apps get persistent URLs, autoscale, and scale to zero when idle. Billed per second, so you're not paying for GPUs you're not using.",
+    "Serverless access is approved per account. Request it, then build: https://fal.ai/dashboard/serverless-get-started",
+    "Docs, quick start, and install steps: https://fal.ai/docs\n\nGo ship something on a GPU today."
+  ],
+  "linkedin_post": "Most teams building generative media apps spend more time wrangling GPU infrastructure than writing the actual model code. The fal CLI closes that gap.\n\nWrite your Python app. Test it locally against a real GPU with `fal run`. Ship it with `fal deploy`. That's the loop.\n\nWhat you get on deploy:\n- A persistent URL for your app\n- Automatic scaling, including scale to zero when idle\n- Per-second billing, so idle time doesn't cost you\n\nInstall with pip install fal (Python 3.8+, works on macOS, Linux, and Windows). Log in with fal auth login or set FAL_KEY, and you're ready to run and deploy.\n\nServerless access is approved per account — request it here: https://fal.ai/dashboard/serverless-get-started\n\nFull docs and quick start: https://fal.ai/docs\n\nIf you're building generative media models or apps, this is the fastest path from laptop to GPU in production.",
+  "image_prompt": "A dark terminal window glowing with soft cyan and magenta light against a deep charcoal background, streams of abstract generative imagery (fractal-like light trails, neural patterns) flowing upward out of the terminal into a starry night sky, conveying code transforming into GPU-powered creative output, clean minimal composition, the word 'fal' rendered once in sleek modern typography in the upper corner, cinematic lighting, 16:9 wide shot",
+  "video_prompt": "A slow, steady dolly-in on the terminal window as the abstract light trails rise and drift upward, the camera gently tilting up to follow them into the starry sky."
+}
